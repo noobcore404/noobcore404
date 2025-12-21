@@ -25,18 +25,3 @@ Here are some ideas to get you started:
 💻 Code • Coffee • Consistency • Chaos  
 
 </div>
-
----
-
-## 🧠 About Me
-
-```js
-const tanzil = {
-  role: "Night Coder 🌙",
-  learning: ["JavaScript", "TypeScript", "Node.js"],
-  mindset: "Learn • Build • Repeat",
-  hobby: "Coding even in free time 😈",
-  mode: "RGB Night 🔴🔵🟣"
-};
-
-export default tanzil;
