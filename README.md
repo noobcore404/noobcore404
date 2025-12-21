@@ -13,3 +13,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   
+# 👋 Hello, I'm T A N J I L 🎀
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=FF0055&center=true&vCenter=true&width=520&lines=Hey!+I'm+Tanzil+Hassan;Night+Coder+%F0%9F%92%BB;JavaScript+%26+Node.js+Developer;RGB+Mode+ON+%F0%9F%94%B4%F0%9F%94%B5;Always+Learning+New+Tech" />
+</div>
+
+---
+
+<div align="center">
+
+🟥🟦🟪 **RGB NIGHT CODING MODE ENABLED** 🟪🟦🟥  
+💻 Code • Coffee • Consistency • Chaos  
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```js
+const tanzil = {
+  role: "Night Coder 🌙",
+  learning: ["JavaScript", "TypeScript", "Node.js"],
+  mindset: "Learn • Build • Repeat",
+  hobby: "Coding even in free time 😈",
+  mode: "RGB Night 🔴🔵🟣"
+};
+
+export default tanzil;
