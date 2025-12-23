@@ -108,7 +108,7 @@
 <table width="100%">
   <tr>
     <td align="center" style="background-color: #0d1117; border-radius: 15px; border: 2px solid #30363d; padding: 30px;">
-      <img src="https://files.catbox.moe/y4cfd5.jpg" width="110" style="border-radius: 50%; border: 3px solid #22d3ee;" />
+      <img src="https://i.ibb.co/8nLWJtr1/604721691-2125358914938802-6609978409608502304-n-jpg-stp-dst-jpg-s480x480-tt6-nc-cat-105-ccb-1-7-n.jpg" width="110" style="border-radius: 50%; border: 3px solid #22d3ee;" />
       <h2 style="margin-top: 15px;">Azad</h2>
       <p style="color: #8b949e;">Hi I'm Azad, I’m a web developer passionate about building modern, practical, and functional projects. I enjoy working with APIs and creating systems that solve real-world problems. Continuously learning and improving, I strive to make simple, efficient, and useful solutions using JavaScript, and HTML.!</p>
       <a href="https://github.com/ncazad"><img src="https://img.icons8.com/material-outlined/24/ffffff/github.png" width="20"/></a> &nbsp;
@@ -151,7 +151,7 @@
     <td align="center" style="background-color: #0d1117; border-radius: 15px; border: 2px solid #30363d; padding: 30px;">
     <img src="https://files.catbox.moe/mwdk75.jpeg" width="110" style="border-radius: 50%; border: 3px solid #22d3ee;" />
     <h2 style="margin-top: 15px;">Toshiro  Editz </h2>
-    <p style="color: #8b949e;">Hi, I’m TanJil Hasan.I work with JavaScript and specialize in building and managing APIs I enjoy creating structured, efficient backend logic and reliable server-side solutions.My focus is on clean code, performance, and well-organized systems that are easy to maintain and scale.I aim to deliver modern, simple, and effective solutions through my work.</p>
+    <p style="color: #8b949e;">Hi, I’m Toshiro Editz.I work with JavaScript and specialize in building and managing APIs I enjoy creating structured, efficient backend logic and reliable server-side solutions.My focus is on clean code, performance, and well-organized systems that are easy to maintain and scale.I aim to deliver modern, simple, and effective solutions through my work.</p>
     <a href="https://github.com/toshiroxeditz"><img src="https://img.icons8.com/material-outlined/24/ffffff/github.png" width="20"/></a> &nbsp;
     <a href="https://www.facebook.com/share/1C15h5y6Za/ fb"><img src="https://img.icons8.com/color/24/000000/facebook-new.png" width="20"/></a> &nbsp;
     <a href="mailto:toshiroeditz6t9@gmail.com"><img src="https://img.icons8.com/color/24/000000/gmail-new.png" width="20"/></a>
