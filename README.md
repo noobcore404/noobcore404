@@ -75,8 +75,10 @@
       <a href="mailto:maybesaim12@gmail.com"><img src="https://img.icons8.com/color/24/000000/gmail-new.png" width="20"/></a>
       <br/><br/>
       <img src="https://img.icons8.com/color/24/000000/bot.png" width="18"/> <code>Bots</code> &nbsp;
+      <img src="https://img.icons8.com/color/24/000000/api-settings.png" width="18"/> <code>REST APIs</code> &nbsp;
       <img src="https://img.icons8.com/color/24/000000/javascript--v1.png" width="18"/> <code>JavaScript</code> &nbsp;
-      <img src="https://img.icons8.com/color/24/000000/json--v1.png" width="18"/> <code>JSON</code> &nbsp;
+      <img src="https://img.icons8.com/color/24/000000/html-5--v1.png" width="18"/> <code>HTML</code> &nbsp;
+      <img src="https://img.icons8.com/color/24/000000/css3.png" width="18"/> <code>CSS</code> &nbsp;
       <img src="https://img.icons8.com/color/24/000000/git.png" width="18"/> <code>Git</code>
     </td>
   </tr>
